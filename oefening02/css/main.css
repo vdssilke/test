@@ -1,0 +1,35 @@
+body{
+    background-color: peru;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+color: rgb(250, 10, 150);
+background-color: rgb(30, 240, 180);
+}
+
+h2{
+    color: rgb(30, 240, 180);
+    background-color: rgb(250, 10, 150);
+    font-family: 'Lucida Sans';
+    font-size: xx-large;
+}
+
+h3{
+    color: rgb(7, 68, 253);
+    background-color: rgb(250, 236, 114);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    color: tomato;
+    background-color: white;
+    font-family: fantasy;
+    font-size: initial;
+}
+
+.large-link{
+    font-size: xx-large;
+    color: lightgreen;
+}
